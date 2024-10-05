@@ -9,20 +9,20 @@ Selamat datang di web recomendasi game di roblox. Ini adalah game bajak laut di 
 
 # Fitur
 
-**Menjelajahi Lautan Menggunakan Kapal Untuk Menemukan Pulau Rahasia!**
+- **Menjelajahi Lautan Menggunakan Kapal Untuk Menemukan Pulau Rahasia!**
+
+- **Mengoleksi Buah Iblis Atau Dimakan Untuk Menjadi Kuat!**
+
+- **Mengalahkan Boss Yang Ada Di Lautan Pertama, Kedua, Dan Ketiga!**
+
+- **Mengoleksi Senjata, Aksesoris, Item Yang Langka!**
  
 ![Tampilan Game](https://github.com/BagusSmpn165Jakarta/Game-Blox-Fruits/blob/main/Kapal%20BF.jpeg)
 
-**Mengoleksi Buah Iblis Atau Dimakan Untuk Menjadi Kuat!**
- 
- ![Tampilan Game](https://github.com/BagusSmpn165Jakarta/bagus/blob/main/Buah%20Kitsune%20BF.jpeg)
- 
- **Mengalahkan Boss Yang Ada Di Lautan Pertama, Kedua, Dan Ketiga**
+![Tampilan Game](https://github.com/BagusSmpn165Jakarta/bagus/blob/main/Buah%20Kitsune%20BF.jpeg)
 
 ![Tampilan Game](https://github.com/BagusSmpn165Jakarta/bagus/blob/main/Boss%20Sea%201%20BF.jpeg)
- 
- **Mengoleksi Senjata, Aksesoris, Item Yang Langka!**
-   
+
 ![Tampilan Game](https://github.com/BagusSmpn165Jakarta/Game-Blox-Fruits/blob/main/aksesoris%20BF.jpeg)
 
 ![Tampilan Game](https://github.com/BagusSmpn165Jakarta/Game-Blox-Fruits/blob/main/Pedang%20BF.jpeg)
@@ -30,6 +30,7 @@ Selamat datang di web recomendasi game di roblox. Ini adalah game bajak laut di 
  - *diclaimer foto diatas berasal dari google*
  
 ## Cara Bermain
+
 **Kalian Bisa Bermain Diweb Atau Download**
 
 ![Tampilan Game](https://github.com/BagusSmpn165Jakarta/bagus/blob/main/Roblox%20Logo.jpeg)
