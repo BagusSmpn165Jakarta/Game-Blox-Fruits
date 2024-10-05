@@ -1,4 +1,4 @@
-# Game Tema Bajak Laut Di Roblox
+## Game Tema Bajak Laut Di Roblox
 
 Selamat datang di web recomendasi game di roblox. Ini adalah game bajak laut di mana pemain menjelajahi lautan, mengumpulkan buah iblis, mengalahkan boss, dan menjadi yang terkuat
 
@@ -6,7 +6,7 @@ Selamat datang di web recomendasi game di roblox. Ini adalah game bajak laut di 
 
 ![download](https://github.com/user-attachments/assets/fc5fb576-375d-463b-88f3-09d971adbd90)
 
-# Fitur
+## Fitur
 
 - **Menjelajahi Lautan Menggunakan Kapal Untuk Menemukan Pulau Rahasia!**
 
