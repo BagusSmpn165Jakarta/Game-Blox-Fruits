@@ -6,8 +6,6 @@ Selamat datang di web recomendasi game di roblox. Ini adalah game bajak laut di 
 
 ![download](https://github.com/user-attachments/assets/fc5fb576-375d-463b-88f3-09d971adbd90)
 
-#
-
 # Fitur
 
 - **Menjelajahi Lautan Menggunakan Kapal Untuk Menemukan Pulau Rahasia!**
@@ -32,15 +30,11 @@ Selamat datang di web recomendasi game di roblox. Ini adalah game bajak laut di 
 
 - *diclaimer foto diatas berasal dari google*
 
-#
- 
 ## Cara Bermain
 
 **Kalian Bisa Bermain [Diweb](www.roblox.com) Atau [Download](https://www.roblox.com/download)**
 
 ![Roblox Logo jpeg](https://github.com/user-attachments/assets/29f4827d-9bd0-4657-9e9f-902fd4ed3af7)
-
-#
 
 ## Kredit
 
@@ -51,17 +45,8 @@ Selamat datang di web recomendasi game di roblox. Ini adalah game bajak laut di 
 ## Kontak
 
 Untuk pertanyaan atau saran, silakan hubungi kami di
-
-**IG**:
-
-(https://www.instagram.com/bitters6556)
-
-**Tiktok**:
-
-(https://www.tiktok.com/@biiters?is_from_webapp=1&sender_device=pc)
-
-**Email**:
-
-akunkhpc453@gmail.com
+, [IG](https://www.instagram.com/bitters6556)
+, [Tiktok](https://www.tiktok.com/@biiters?is_from_webapp=1&sender_device=pc)
+, [Email](akunkhpc453@gmail.com)
 
 
